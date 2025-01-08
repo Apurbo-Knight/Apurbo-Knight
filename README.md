@@ -75,9 +75,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Apurbo-Knight/Apurbo-Knight/output/snake.svg" alt="Snake animation" />
-
-###
